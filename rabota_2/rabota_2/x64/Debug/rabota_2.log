@@ -1,0 +1,16 @@
+﻿  rabota_2.cpp
+D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(14,13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(14,13):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(14,13):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(14,13):
+  этот аргумент используется в качестве размера буфера
+  
+D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(25,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "10" имеет тип "size_t"
+  D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(25,12):
+  рекомендуется использовать "%zd" в строке форматирования
+  
+D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(9,36): warning C4101: s2: неиспользованная локальная переменная
+D:\lastlab\rabota_2\rabota_2\rabota_2.cpp(9,28): warning C4101: s1: неиспользованная локальная переменная
+  rabota_2.vcxproj -> D:\lastlab\rabota_2\x64\Debug\rabota_2.exe
