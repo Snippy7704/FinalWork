@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\konec\\rabota_2\\",
+  "WorkspaceRootPath": "C:\\final\\rabota_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABBFA642-57B8-4153-BA3B-01C42465F82E}|rabota_2\\rabota_2.vcxproj|D:\\konec\\rabota_2\\rabota_2\\rabota_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{ABBFA642-57B8-4153-BA3B-01C42465F82E}|rabota_2\\rabota_2.vcxproj|C:\\final\\rabota_2\\rabota_2\\rabota_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ABBFA642-57B8-4153-BA3B-01C42465F82E}|rabota_2\\rabota_2.vcxproj|solutionrelative:rabota_2\\rabota_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "rabota_2.cpp",
-              "DocumentMoniker": "D:\\konec\\rabota_2\\rabota_2\\rabota_2.cpp",
+              "DocumentMoniker": "C:\\final\\rabota_2\\rabota_2\\rabota_2.cpp",
               "RelativeDocumentMoniker": "rabota_2\\rabota_2.cpp",
-              "ToolTip": "D:\\konec\\rabota_2\\rabota_2\\rabota_2.cpp",
+              "ToolTip": "C:\\final\\rabota_2\\rabota_2\\rabota_2.cpp",
               "RelativeToolTip": "rabota_2\\rabota_2.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAiwBgAAADSAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-23T18:55:14.908Z",
               "EditorCaption": ""

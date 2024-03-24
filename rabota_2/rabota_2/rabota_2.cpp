@@ -6,10 +6,15 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    char p, str[100] = "", s1[50], s2[50];
-    int b, c;
+    char p;
+    char str[100] = "";
+    char s1[50];
+    char s2[50];
+    int b; //целое число
+    int c;
     unsigned int d;
-    float x, y;
+    float x;//вещественное число
+    float y;
     printf("Введите символ: ");
     scanf_s("%c", &p);
     getchar();
